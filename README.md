@@ -11,3 +11,10 @@ Course material and example project for the course JavaScript for Web, November 
 * [Document.querySelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 * [Document.getElementById()](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 * [List of HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+## Session 2 (02.12.)
+
+* [Examples](https://codesandbox.io/s/session-2-00ejt?file=/src/index.js)
+* [eventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+* [element.classList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
+* [Style color property](https://www.w3schools.com/jsref/prop_style_color.asp)
