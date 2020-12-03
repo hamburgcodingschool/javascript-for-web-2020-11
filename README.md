@@ -18,3 +18,7 @@ Course material and example project for the course JavaScript for Web, November 
 * [eventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 * [element.classList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
 * [Style color property](https://www.w3schools.com/jsref/prop_style_color.asp)
+
+### Optional homework
+
+* Check out [tailwindcss](https://tailwindcss.com/)
