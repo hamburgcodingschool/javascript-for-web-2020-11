@@ -22,3 +22,16 @@ Course material and example project for the course JavaScript for Web, November 
 ### Optional homework
 
 * Check out [tailwindcss](https://tailwindcss.com/)
+
+## Session 3 (04.12.)
+
+* [Examples](https://codesandbox.io/s/session-3-5gpps?file=/src/index.js)
+* [Array.push()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+* [form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+
+### Optional homework
+
+* Create a list of your favourite snacks
+* Create a form to add snacks
+* Show the snacks as a list
+* You could use [tailwindcss](https://tailwindcss.com/) to make it beautiful
