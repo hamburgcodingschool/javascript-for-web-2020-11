@@ -35,3 +35,9 @@ Course material and example project for the course JavaScript for Web, November 
 * Create a form to add snacks
 * Show the snacks as a list
 * You could use [tailwindcss](https://tailwindcss.com/) to make it beautiful
+
+## Session 4 (08.12.)
+
+* [Examples](https://codesandbox.io/s/session-4-ynlru?file=/src/index.js)
+* [HTMLFormElement.reset()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/reset)
+* [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
