@@ -36,8 +36,22 @@ Course material and example project for the course JavaScript for Web, November 
 * Show the snacks as a list
 * You could use [tailwindcss](https://tailwindcss.com/) to make it beautiful
 
-## Session 4 (08.12.)
+## Session 4 (07.12.)
 
 * [Examples](https://codesandbox.io/s/session-4-ynlru?file=/src/index.js)
 * [HTMLFormElement.reset()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/reset)
 * [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+
+## Session 5 (09.12.)
+
+* [Examples](https://codesandbox.io/s/session-5-snack-form-6gm99?file=/src/index.js)
+* [JSON.stringify()](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
+* [JSON.parse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
+* [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+* [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+* [Cat Fact API](https://catfact.ninja/)
+
+### Homework
+
+* Download [Postman](https://www.postman.com/downloads/)
+* Watch [this video](https://youtu.be/cuEtnrL9-H0)
