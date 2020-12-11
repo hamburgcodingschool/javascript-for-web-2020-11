@@ -63,3 +63,8 @@ Course material and example project for the course JavaScript for Web, November 
 * [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [Cat Fact API](https://catfact.ninja/)
 * [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
+### Optional homework
+
+* Make our page beautiful using either custom CSS or tailwindcss
+* Have a look at the [beer API](https://punkapi.com/documentation/v2) and experiment with it
