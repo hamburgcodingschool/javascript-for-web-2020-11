@@ -55,3 +55,11 @@ Course material and example project for the course JavaScript for Web, November 
 
 * Download [Postman](https://www.postman.com/downloads/)
 * Watch [this video](https://youtu.be/cuEtnrL9-H0)
+
+## Session 6 (11.12.)
+
+* [Examples](https://codesandbox.io/s/session-6-wen64?file=/src/index.js)
+* [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+* [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+* [Cat Fact API](https://catfact.ninja/)
+* [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
