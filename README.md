@@ -68,3 +68,14 @@ Course material and example project for the course JavaScript for Web, November 
 
 * Make our page beautiful using either custom CSS or tailwindcss
 * Have a look at the [beer API](https://punkapi.com/documentation/v2) and experiment with it
+
+## Session 7 (14.12.)
+
+* [Examples](https://codesandbox.io/s/session-7-ylorm?file=/src/index.js)
+* [Beer API](https://punkapi.com/documentation/v2)
+* [Request parameters](https://en.wikipedia.org/wiki/Query_string)
+
+### Homework
+
+* Register an account for [OpenWeatherMap](https://home.openweathermap.org/users/sign_up)
+* Show a list of beers by name
