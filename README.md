@@ -79,3 +79,14 @@ Course material and example project for the course JavaScript for Web, November 
 
 * Register an account for [OpenWeatherMap](https://home.openweathermap.org/users/sign_up)
 * Show a list of beers by name
+
+## Session 8 (16.12.)
+
+* [Examples](https://codesandbox.io/s/session-8-d4dfk)
+* [splice Example](https://codesandbox.io/s/session-8-splice-example-x26t2)
+* [Array.splice()](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+* [OpenWeatherMap API](https://openweathermap.org/current)
+
+## JavaScript 30
+
+[JavaScript 30](https://javascript30.com/) is a free course (you only need to create an account) that focuses on little examples/tasks what you can do with JavaScript. Personally, I think it is a great course and a nice follow-up after this class to practise your JavaScript. You will learn a lot!
